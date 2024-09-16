@@ -54,7 +54,7 @@ public class LinkedListMain {
         //list.deleteLast();  //오류동작 확인
         list.printAll();
 
-        System.out.println("================= deleteLast () =================");
+        System.out.println("================= getNodeAt () =================");
 
         list.insertLast(1);
         list.insertLast(2);
