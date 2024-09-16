@@ -1,5 +1,4 @@
-package main;
-import linkedList.MyStack;
+package structure;
 
 import java.util.Stack;
 

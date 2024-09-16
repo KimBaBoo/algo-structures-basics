@@ -1,6 +1,4 @@
-package linkedList;
-import linkedList.MyLinkedList;
-import main.LinkedListMain;
+package structure;
 
 public class MyStack {
 

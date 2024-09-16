@@ -1,4 +1,4 @@
-package linkedList;
+package structure;
 
 public class MyLinkedList {
     private int data;
