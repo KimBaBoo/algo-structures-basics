@@ -1,10 +1,8 @@
 package main;
 
-import java.util.LinkedList;
 import linkedList.MyLinkedList;
-import org.w3c.dom.Node;
 
-public class Main {
+public class LinkedListMain {
     public static void main(String[] args) {
         MyLinkedList node1 = new MyLinkedList(1);
         MyLinkedList node2 = new MyLinkedList(2);
